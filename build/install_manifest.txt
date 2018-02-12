@@ -1,0 +1,14 @@
+C:/Mods/Code/_pathtracer/lib/glew.lib
+C:/Mods/Code/_pathtracer/include/GL/glew.h
+C:/Mods/Code/_pathtracer/include/GL/glxew.h
+C:/Mods/Code/_pathtracer/include/GL/wglew.h
+C:/Mods/Code/_pathtracer/include/GLFW/glfw3.h
+C:/Mods/Code/_pathtracer/include/GLFW/glfw3native.h
+C:/Mods/Code/_pathtracer/lib/cmake/glfw/glfw3Config.cmake
+C:/Mods/Code/_pathtracer/lib/cmake/glfw/glfw3ConfigVersion.cmake
+C:/Mods/Code/_pathtracer/lib/cmake/glfw/glfwTargets.cmake
+C:/Mods/Code/_pathtracer/lib/cmake/glfw/glfwTargets-relwithdebinfo.cmake
+C:/Mods/Code/_pathtracer/lib/pkgconfig/glfw3.pc
+C:/Mods/Code/_pathtracer/lib/glfw3.lib
+C:/Mods/Code/_pathtracer/lib/CMU462.lib
+C:/Mods/Code/_pathtracer/pathtracer.exe
