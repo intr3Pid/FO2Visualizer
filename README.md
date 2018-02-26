@@ -1,6 +1,6 @@
 #FO2Visualizer
 
-Primary purpose of this program is to visualise the AABB tree of the track_cdb2.gen files from FlatOut 2.
+Primary purpose of this program is to visualize the AABB tree of the track_cdb2.gen files from FlatOut 2.
 It can also visualize the track_bvh.gen files.
 
 Usage:  Grab a FlatOut 2 map, make one mesh (merge all objects to one) and export it to Collada file format,
